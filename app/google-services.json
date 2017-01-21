@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "434887915266",
+    "firebase_url": "https://donate2philippinecharities.firebaseio.com",
+    "project_id": "donate2philippinecharities",
+    "storage_bucket": "donate2philippinecharities.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:434887915266:android:af00becb88e23cf4",
+        "android_client_info": {
+          "package_name": "io.github.oneiroisolutionsph.donate2philippinecharities"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "434887915266-p1sc03g20aodgqvdisue0jtgualide83.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "io.github.oneiroisolutionsph.donate2philippinecharities",
+            "certificate_hash": "6101232AE628160B8F7A41D4A3CCA260355C543E"
+          }
+        },
+        {
+          "client_id": "434887915266-mussmdvfof1suu5inpduvrecjgadr3a9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDILemfqlrekQzPdMo7G50FUTcR6Z-SQNw"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "434887915266-mussmdvfof1suu5inpduvrecjgadr3a9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
